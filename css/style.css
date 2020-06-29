@@ -1,0 +1,5 @@
+.bgImage {
+  position: absolute;
+  opacity: 0.89;
+  z-index: -1;
+}
